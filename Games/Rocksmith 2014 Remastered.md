@@ -2,9 +2,9 @@
 First of all, be sure to check out the [ProtonDB page](https://www.protondb.com/app/221680) for any new potential issues.
 
 ### Normal steps
-1. Install the game in the usual way but be sure to select the default Steam library folder on your `home` partition. It is unclear not doing so still causes issues but it has prevented the game from working in the past. On Kubuntu 20.04 LTS this is `/home/tlg/.steam/debian-installation/` but your mileage may vary.  
+1. Install the game in the usual way but be sure to select the default Steam library folder on your `home` partition. It is unclear not doing so still causes issues but it has prevented the game from working in the past. On Kubuntu 20.04 LTS this is `~/.steam/debian-installation/` but your mileage may vary. Another common location is `~/.steam/steam/`. Replace entries below with your specific path.
 
-2. Edit `Rocksmith.ini` in `/home/tlg/.steam/debian-installation/steamapps/common/Rocksmith2014/` to ensure the following is there:  
+2. Edit `Rocksmith.ini` in `~/.steam/debian-installation/steamapps/common/Rocksmith2014/` to ensure the following is there:  
 ```
 [Audio]
 EnableMicrophone=0
