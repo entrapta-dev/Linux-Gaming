@@ -9,6 +9,38 @@ Setting up Linux for optimal gaming. Along with specific game setup instructions
 
 # 1. Required packages and drivers.
 
+## Wine
+Enable 32-bit architecture if you haven't already:  
+```
+sudo dpkg --add-architecture i386
+```
+
+Get the Wine repository key:  
+```
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
+```
+
+Add the Wine repository:  
+```
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+```
+
+Run apt update:  
+```
+sudo apt update
+```
+
+Install **stable** branch:  
+```
+sudo apt install --install-recommends winehq-stable
+```
+
+Check Wine version with:  
+```
+wine --version
+```
+
 ## Proton GloriousEggroll Custom
 Running games with this custom version of Proton can fix games that are not (yet) working with regular Proton. This is often due to propriety licenses, e.g.: `.NET`.  
 https://github.com/GloriousEggroll/proton-ge-custom
