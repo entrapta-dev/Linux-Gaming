@@ -97,3 +97,10 @@ pip install legendary-gl
 Then add [Heroic Launcher](https://github.com/flavioislima/HeroicGamesLauncher) for a fancy GUI. I recommend the `.deb.` over the Appimage.
 
 Run Heroic Launcher once, it will ask you to log in to the Epic Games Store and get the ssid you'll need to copy over in order to automatically log in and get the games list.
+
+---
+
+# 4. Steam app tweaks
+
+## Custom screenshot folder
+In Steam settings you can set a custom screenshot folder but it will not work unless you also check the box that reads `Save an uncompressed copy`. Screenshots will still be saved in the old standard location as well as the new one. Plus, deletion via the Steam interface will only delete from the default folder.
