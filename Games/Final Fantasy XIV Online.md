@@ -25,3 +25,14 @@ Enter your Square Enix ID and password.
 Accept another agreement.  
 
 It should now start downloading the game. This will take some time.  
+
+Once finished, start the game and pick your data center.
+
+It will now seemingly lock up with a black screen.  
+Close the game.  
+
+Go to `/steamapps/compatdata/39210/pfx/drive_c/users/steamuser/My Documents/My Games/FINAL FANTASY XIV - A Realm Reborn/` and edit `FFXIV.cfg`.  
+
+Change `CutsceneMovieOpening` from `0` to `1`.  
+
+Open the game again and everything should now work just fine.
