@@ -98,6 +98,13 @@ Then add [Heroic Launcher](https://github.com/flavioislima/HeroicGamesLauncher) 
 
 Run Heroic Launcher once, it will ask you to log in to the Epic Games Store and get the ssid you'll need to copy over in order to automatically log in and get the games list.
 
+
+## Lutris
+Add the lutris repo with `sudo add-apt-repository ppa:lutris-team/lutris` and then install with `sudo apt install lutris`.  
+
+### Stuck on "Starting".
+2021-03-25: Bug. Just press `Esc` once to have it start the main app. You can do it again to close the launcher window after.
+
 ---
 
 # 4. Steam app tweaks
