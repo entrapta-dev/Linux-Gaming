@@ -105,6 +105,16 @@ Add the lutris repo with `sudo add-apt-repository ppa:lutris-team/lutris` and th
 ### Stuck on "Starting".
 2021-03-25: Bug. Just press `Esc` once to have it start the main app. You can do it again to close the launcher window after.
 
+
+### Create symbolic link to move runners to external drive, saving space
+
+Move runners from `.local`  to destination location first, then:
+
+```
+ln -s /media/tlg/Games/lutris-games/runners/ ~/.local/share/lutris/runners/
+```
+Format: `ln -s [DESTINATION] [SOURCE]`
+
 ---
 
 # 4. Steam app tweaks
