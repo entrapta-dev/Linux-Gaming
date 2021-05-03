@@ -1,35 +1,10 @@
-# The Elder Scrolls Online *(Steam)*
+# The Little Acre *(Steam)*
 
-**Note!** When installing to a Steam Library folder that is not on your home location it may error out when trying to update the launcher, see the notes below to rectify that.
+## Error: Missing Executable
+This can be fixed by making a copy of `TheLittleAcre.x86_64` and calling it `TheLittleAcre.x86`.  
 
----
+## Cutscenes appear white near the end of the game.
+No solid fix found.  
 
-## Installation
-
-Download and install from Steam.  
-Once done add the following in launch options: `PROTON_NO_ESYNC=1 %command%`
-
-Run the game.  
-Press OK on Launcher  
-Continue  
-Accept License Agreement  
-
-### Not enough space / Installation Path is not writable
-
-You will encounter this error if you install anywhere but the default Steam home location.  
-Quit the launcher.  
-
-Go to `<STEAM LIBRARY>/steamapps/common/Zenimax Online/`  
-Run `setup.exe` through wine _(right-click to open in Wine Windows Program Loader)_  
-
-Complete the installation. It will say it will have to use 20GB of space but in reality it is only like 200MB for the Launcher, which is what we need.  It should only take a few seconds to complete.  
-
-This should have installed the Launcher in `~/.wine/drive_c/Program Files (x86)/Zenimax Online/`.  
-Now copy the entire `Launcher` folder to `steamapps/common/Zenimax Online/`  
-
-Run the game from Steam again.  
-Launcher will now run and update if needed.  
-
-## Note
-
-The loading screen before Character Selection may take some time depending on server load. Just wait it out.
+## Lily can't go back inside.
+Visual bug when using a gamepad. The door says `A` but you actually have to press `X`.  
