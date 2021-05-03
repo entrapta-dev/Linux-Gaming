@@ -1,7 +1,7 @@
 # The Little Acre *(Steam)*
 
 ## Error: Missing Executable
-This can be fixed by making navigating to `/steamapps/common/The Little Acre/` and making a copy of `TheLittleAcre.x86_64` and naming it `TheLittleAcre.x86`.  
+This can be fixed by making navigating to `<STEAM_LIBRARY>/steamapps/common/The Little Acre/` and making a copy of `TheLittleAcre.x86_64` and naming it `TheLittleAcre.x86`.  
 
 ## Cutscenes appear white near the end of the game.
 No solid fix found.  
