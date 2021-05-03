@@ -43,4 +43,4 @@ WINEPREFIX=~/.steam/debian-installation/steamapps/compatdata/221680/pfx winecfg
 ```
 To select the Rocksmith audio cable as both input devices and the Analog option for both Output devices.
 
-You should now have a working Rocksmith 2014 Remastered. You *will* need to reboot to re-enable pulseaudio.
+You should now have a working Rocksmith 2014 Remastered. You *may* need to reboot to re-enable pulseaudio.
