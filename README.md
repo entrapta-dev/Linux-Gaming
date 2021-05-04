@@ -1,10 +1,10 @@
 # Linux-Gaming
 Setting up Linux for optimal gaming. Along with specific game setup instructions and tweaks.
 
-1. [Required packages and drivers](Requirements)
-2. [Hardware](Hardware)
+1. [Required packages and drivers](#Requirements)
+2. [Hardware](#Hardware)
 3. [Launchers](#Launchers)
-4. [Steam-Tweaks](Steam Tweaks)
+4. [Steam Tweaks](#Steam-Tweaks)
 
 ---
 
