@@ -20,7 +20,7 @@ iSize W=1920
 
 
 ### Stuck on White Screen at character creation
-- Run the game via the offical launcher (not f4se) and go into advanced graphic optiosn and disable `Wetness`.
+- Run the game via the official launcher (not f4se) and go into advanced graphic options and disable `Wetness`.
 
 ---
 
