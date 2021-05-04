@@ -1,13 +1,14 @@
 # Linux-Gaming
 Setting up Linux for optimal gaming. Along with specific game setup instructions and tweaks.
 
-1. Required packages and drivers.
-2. Hardware
-3. Launchers
+1. [Required packages and drivers](Requirements)
+2. [Hardware](Hardware)
+3. [Launchers](#Launchers)
+4. [Steam-Tweaks](Steam Tweaks)
 
 ---
 
-# 1. Required packages and drivers.
+# <a id="Requirements"></a>1. Required packages and drivers.
 
 ## Wine
 Enable 32-bit architecture if you haven't already:  
@@ -47,7 +48,7 @@ https://github.com/GloriousEggroll/proton-ge-custom
 
 ---
 
-# 2. Hardware
+# <a id="Hardware"></a>2. Hardware
 
 ## XBOX 1914 Gamepad
 In order to use this new XBOX gamepad you will need to install [xow](https://github.com/medusalix/xow) which will enable the XBOX wireless dongle we'll be using.  
@@ -86,7 +87,7 @@ to check if there are any errors left. If the gamepad needs pairing, do so now. 
 
 ---
 
-# 3. Launchers
+# <a id="Launchers"></a>3. Launchers
 
 ## Epic Games Store Launcher
 First install [legendary](https://github.com/derrod/legendary) via:  
@@ -117,7 +118,7 @@ Format: `ln -s [DESTINATION] [SOURCE]`
 
 ---
 
-# 4. Steam app tweaks
+# <a id="Steam-Tweaks"></a>4. Steam app tweaks
 
 ## Custom screenshot folder
 In Steam settings you can set a custom screenshot folder but it will not work unless you also check the box that reads `Save an uncompressed copy`. Screenshots will still be saved in the old standard location as well as the new one. Plus, deletion via the Steam interface will only delete from the default folder.
