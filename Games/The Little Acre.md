@@ -7,4 +7,4 @@ This can be fixed by making navigating to `<STEAM_LIBRARY>/steamapps/common/The 
 No solid fix found.  
 
 ## Lily can't go back inside.
-Visual bug when using a gamepad. The door says `A` but you actually have to press `X`.  
+Visual bug when using a gamepad. The door says `A` but you actually have to press `X`.  This may happen with a mouse too and completely block progress.
