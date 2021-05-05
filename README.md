@@ -109,12 +109,12 @@ Add the lutris repo with `sudo add-apt-repository ppa:lutris-team/lutris` and th
 
 ### Create symbolic link to move runners to external drive, saving space
 
-Move runners from `.local`  to destination location first, then:
+Move runners from `.local`  to destination location first, then symlink using the following syntax format: `ln -s [DESTINATION] [SOURCE]`
 
+Example:  
 ```
-ln -s /media/tlg/Games/lutris-games/runners/ ~/.local/share/lutris/runners/
+ln -s /media/Entrapta/Games/lutris-games/runners/ ~/.local/share/lutris/runners/
 ```
-Format: `ln -s [DESTINATION] [SOURCE]`
 
 ---
 
