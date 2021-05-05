@@ -47,11 +47,11 @@ Running games with this custom version of Proton can fix games that are not (yet
 https://github.com/GloriousEggroll/proton-ge-custom
 
 ## Boxtron
-Steam Play compatibility tool to run DOS games using native Linux DOSBox instead of the provided version that comes with the game which is often a Windows version and also out of date.  
+Steam Play compatibility tool to run DOS games using native Linux DOSBox instead if the provided Windows version.  
 https://github.com/dreamer/boxtron
 
 ## Roberta
-Steam Play compatibility tool to run adventure games using native Linux ScummVM. Similar as Boxtron above, the games will usually install a Windows version which may significantly impact performance. For example: [Beneath A Steel Sky](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky/).  
+Steam Play compatibility tool to run adventure games using native Linux ScummVM instead if the provided Windows version. Example: [Beneath A Steel Sky](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky/).  
 https://github.com/dreamer/roberta
 
 ---
