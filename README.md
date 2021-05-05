@@ -51,7 +51,7 @@ Steam Play compatibility tool to run DOS games using native Linux DOSBox instead
 https://github.com/dreamer/boxtron
 
 ## Roberta
-Steam Play compatibility tool to run adventure games using native Linux ScummVM. Similar as Boxtron above, the games will usually install a Windows version which may significantly impact performance.  
+Steam Play compatibility tool to run adventure games using native Linux ScummVM. Similar as Boxtron above, the games will usually install a Windows version which may significantly impact performance. For example: [Beneath A Steel Sky](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky/).  
 https://github.com/dreamer/roberta
 
 ---
@@ -103,7 +103,7 @@ First install [legendary](https://github.com/derrod/legendary) via:
 pip install legendary-gl
 ```
 
-Then add [Heroic Launcher](https://github.com/flavioislima/HeroicGamesLauncher) for a fancy GUI. I recommend the `.deb.` over the Appimage.
+Then add [Heroic Launcher](https://github.com/flavioislima/HeroicGamesLauncher) for a fancy GUI. I recommend the `.deb` over the Appimage.
 
 Run Heroic Launcher once, it will ask you to log in to the Epic Games Store and get the ssid you'll need to copy over in order to automatically log in and get the games list.
 
