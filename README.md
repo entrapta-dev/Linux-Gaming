@@ -42,15 +42,19 @@ Check Wine version with:
 wine --version
 ```
 
-## Proton GloriousEggroll Custom
+## Custom Steam Play compatibility tools
+Sometimes the default Steam Play Proton tool just won't work and you'll need to use another compatibility tool in order to get a game working.  
+The tools listed below need to be downloaded and extracted into the `compatibilitytools.d` directory which is usually located in `~/.local/share/Steam/compatibilitytools.d`. If it does not exist yet, create it.
+
+### Proton GloriousEggroll Custom
 Running games with this custom version of Proton can fix games that are not (yet) working with regular Proton. This is often due to propriety licenses, e.g.: `.NET`.  
 https://github.com/GloriousEggroll/proton-ge-custom
 
-## Boxtron
+### Boxtron
 Steam Play compatibility tool to run DOS games using native Linux DOSBox instead if the provided Windows version.  
 https://github.com/dreamer/boxtron
 
-## Roberta
+### Roberta
 Steam Play compatibility tool to run adventure games using native Linux ScummVM instead if the provided Windows version. Example: [Beneath A Steel Sky](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky/).  
 https://github.com/dreamer/roberta
 
