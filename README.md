@@ -46,6 +46,14 @@ wine --version
 Running games with this custom version of Proton can fix games that are not (yet) working with regular Proton. This is often due to propriety licenses, e.g.: `.NET`.  
 https://github.com/GloriousEggroll/proton-ge-custom
 
+## Boxtron
+Steam Play compatibility tool to run DOS games using native Linux DOSBox instead of the provided version that comes with the game which is often a Windows version and also out of date.  
+https://github.com/dreamer/boxtron
+
+## Roberta
+Steam Play compatibility tool to run adventure games using native Linux ScummVM. Similar as Boxtron above, the games will usually install a Windows version which may significantly impact performance.  
+https://github.com/dreamer/roberta
+
 ---
 
 # <a id="Hardware"></a>2. Hardware
