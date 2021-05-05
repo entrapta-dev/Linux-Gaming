@@ -96,7 +96,16 @@ Run:
 ```
 sudo systemctl status xow
 ```
-to check if there are any errors left. If the gamepad needs pairing, do so now. Disable Bluetooth in the meantime to prevent mishaps.
+to check if there are any errors left. If the gamepad needs pairing, do so now. Disable Bluetooth in the meantime to prevent mishaps.  
+
+## Steam Link
+The hardware version of the Steam Link is a great tool to stream your games from your main gaming PC to any other device like your TV. However, there is a significant audio bug present when streaming from Linux devices which only has a workaround for now but no actual fix.  
+
+### Audio degradation / loss after 1+ hour of streaming
+If you experience audio crackling or just plain disappearing after 1-2 hours of continuous streaming then this workaround may fix the issue.  
+- Make sure you are not currently streaming to the Steam Link.  
+- Turn all audio device profiles to `Off` on the streaming source until it lists `Dummy Output` as your Playback Device.  
+- Start streaming to the Steam Link.  
 
 ---
 
