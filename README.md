@@ -59,6 +59,8 @@ https://github.com/dreamer/boxtron
 Steam Play compatibility tool to run adventure games using native Linux ScummVM instead if the provided Windows version. Example: [Beneath A Steel Sky](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky/).  
 https://github.com/dreamer/roberta
 
+**Note:** The above tools will show up after a Steam restart.  
+
 ---
 
 # <a id="Hardware"></a>2. Hardware
