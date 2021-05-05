@@ -44,7 +44,8 @@ wine --version
 
 ## Custom Steam Play compatibility tools
 Sometimes the default Steam Play Proton tool just won't work and you'll need to use another compatibility tool in order to get a game working.  
-The tools listed below need to be downloaded and extracted into the `compatibilitytools.d` directory which is usually located in `~/.local/share/Steam/compatibilitytools.d`. If it does not exist yet, create it.
+
+The tools listed below need to be downloaded and extracted into the `compatibilitytools.d` directory which is usually located in `~/.local/share/Steam/compatibilitytools.d`. If it does not exist yet, create it.  
 
 ### Proton GloriousEggroll Custom
 Running games with this custom version of Proton can fix games that are not (yet) working with regular Proton. This is often due to propriety licenses, e.g.: `.NET`.  
