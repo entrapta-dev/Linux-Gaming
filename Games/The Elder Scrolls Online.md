@@ -16,16 +16,16 @@ Accept License Agreement
 
 ### Not enough space / Installation Path is not writable
 
-You will encounter this error if you install anywhere but the default Steam home location.  
+You may encounter this error if you install anywhere but the default Steam home location. Though it's been reported in other scenarios as well.  
+
 Quit the launcher.  
 
-Go to `<STEAM LIBRARY>/steamapps/common/Zenimax Online/`  
-Run `setup.exe` through wine _(right-click to open in Wine Windows Program Loader)_  
+Go to `<STEAM LIBRARY>/steamapps/common/Zenimax Online/` and run `setup.exe` through wine _(right-click to open in Wine Windows Program Loader)_  
 
 Complete the installation. It will say it will have to use 20GB of space but in reality it is only like 200MB for the Launcher, which is what we need.  It should only take a few seconds to complete.  
 
 This should have installed the Launcher in `~/.wine/drive_c/Program Files (x86)/Zenimax Online/`.  
-Now copy the entire `Launcher` folder to `steamapps/common/Zenimax Online/`  
+Now copy that entire `Launcher` folder to `steamapps/common/Zenimax Online/`  
 
 Run the game from Steam again.  
 Launcher will now run and update if needed.  
