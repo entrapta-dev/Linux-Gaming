@@ -1,9 +1,9 @@
-## Rocksmith 2014 Edition - Remastered *(Steam)*
+# Rocksmith 2014 Edition - Remastered *(Steam)*
 First of all, be sure to check out the [ProtonDB page](https://www.protondb.com/app/221680) for any new potential issues.  
 
 This will assume you are using the official RealTone cable.
 
-### Normal steps
+## Normal steps
 1. Install the game in the usual way but be sure to select the default Steam library folder on your `home` partition. It is unclear not doing so still causes issues but installing it in a library on an external drive has prevented the game from working in the past. On Kubuntu 20.04 LTS this is `~/.steam/steam/` but your mileage may vary. Another common location is `~/.steam/debian-installation/`. Replace entries below with your specific path.
 
 2. Edit `Rocksmith.ini` in `~/.steam/steam/steamapps/common/Rocksmith2014/` to ensure the following is there:  
