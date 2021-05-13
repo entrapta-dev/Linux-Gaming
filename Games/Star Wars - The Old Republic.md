@@ -9,3 +9,7 @@ and edit
 Then find  
 `Controls_CameraRotationSpeed = 0.1`  
 and change it to anything lower than `0.1`. A setting `0.08` seems to work well.
+
+If missing also add:  
+`Controls_CameraMaxDistance = 25.0`  
+which can help.
