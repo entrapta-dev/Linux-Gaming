@@ -1,4 +1,6 @@
 # Fallout 4 *(Steam)*
+Steam Store: https://store.steampowered.com/app/377160  
+ProtonDB: https://www.protondb.com/app/377160  
 
 ## Fixes / Tweaks
 

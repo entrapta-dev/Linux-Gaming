@@ -1,4 +1,6 @@
 # Star Wars: The Old Republic *(Steam)*
+Steam Store:  https://store.steampowered.com/app/1286830  
+ProtonDB: https://www.protondb.com/app/1286830  
 
 ## Game Tweaks
 Fix too fast camera speed by navigating to  

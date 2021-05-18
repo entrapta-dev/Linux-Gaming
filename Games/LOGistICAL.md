@@ -1,5 +1,6 @@
 # LOGistICAL *(Steam)*
-Steam Store link: https://store.steampowered.com/app/573060
+Steam Store: https://store.steampowered.com/app/573060  
+ProtonDB: https://www.protondb.com/app/573060  
 
 ## Requirements
 This game, and many of its separately listed modules all use the exact same architecture and the fix for them is the same. I have not tested this with LOGistICAL 3 however as I do not own a copy.

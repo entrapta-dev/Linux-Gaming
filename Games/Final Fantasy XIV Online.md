@@ -1,4 +1,6 @@
 # Final Fantasy XIV Online *(Steam)*
+Steam Store: https://store.steampowered.com/app/39210  
+ProtonDB: https://www.protondb.com/app/39210  
 
 **Note!** It is crucial that new accounts are made on the website and not the launcher or there will be a 24 hour lockout on the email address used. Use the CD-Key(s) you got from Steam when first purchasing the game.  
 More info here: https://support.na.square-enix.com/faqarticle.php?id=5382&la=1&kid=76363  

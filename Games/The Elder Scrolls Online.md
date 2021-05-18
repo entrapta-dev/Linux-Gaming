@@ -1,8 +1,6 @@
 # The Elder Scrolls Online *(Steam)*
-
-**Note!** When installing to a Steam Library folder that is not on your home location it may error out when trying to update the launcher, see the notes below to rectify that.
-
----
+Steam Store: https://store.steampowered.com/app/306130  
+ProtonDB: https://www.protondb.com/app/306130  
 
 ## Installation
 

@@ -1,4 +1,5 @@
 # The Little Acre *(Steam)*
+Steam Store: https://store.steampowered.com/app/423590  
 
 ## Error: Missing Executable
 This can be fixed by making navigating to `<STEAM_LIBRARY>/steamapps/common/The Little Acre/` and making a copy of `TheLittleAcre.x86_64` and naming it `TheLittleAcre.x86`.  

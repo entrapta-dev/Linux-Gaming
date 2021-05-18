@@ -1,4 +1,6 @@
 # Mass Effect: Legendary Edition *(Steam)*
+Steam Store: https://store.steampowered.com/app/1328670  
+ProtonDB: https://www.protondb.com/app/1328670  
 
 ## Getting it to run
 At the time of writing this is a very newly released game and as such does not work with vanilla Proton *yet*. However, progress was made in the subsequent days of release and a custom Proton will fix alll major issues and make the games completely playable.  
