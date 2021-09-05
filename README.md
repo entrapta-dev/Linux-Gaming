@@ -10,6 +10,10 @@ Setting up Linux for optimal gaming. Along with specific game setup instructions
 
 # <a id="Requirements"></a>1. Required packages and drivers.
 
+## Drivers
+
+Detailed instructions per distro here: https://github.com/lutris/docs/blob/master/InstallingDrivers.md
+
 ## Wine
 Enable 32-bit architecture if you haven't already:  
 ```
